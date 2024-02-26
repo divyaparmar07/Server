@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "362288165309",
+    "project_id": "remoteconfigdemo-3c62d",
+    "storage_bucket": "remoteconfigdemo-3c62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362288165309:android:0b8dcfeb9e8e212d0e62d4",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm2tL8MwyQ_ilwmLEm-8JCXtmB59aJ2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362288165309:android:3669423e95b8fa450e62d4",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm2tL8MwyQ_ilwmLEm-8JCXtmB59aJ2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362288165309:android:10b10b0cdda403f10e62d4",
+        "android_client_info": {
+          "package_name": "com.example.server"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm2tL8MwyQ_ilwmLEm-8JCXtmB59aJ2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
